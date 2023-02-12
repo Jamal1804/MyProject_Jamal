@@ -1,1 +1,1 @@
-Belajar git ignore
+Sedang belajar git dasar
