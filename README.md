@@ -1,1 +1,1 @@
-Sedang belajar git dasar
+Belajar Git Stash
